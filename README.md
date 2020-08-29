@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## Demo - <link href="http://rajayush012.github.io/react-monster-search">Click here</link>
+### Demo - <a href="http://rajayush012.github.io/react-monster-search">Click here</a>
